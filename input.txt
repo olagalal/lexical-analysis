@@ -1,0 +1,14 @@
+float x, y;
+int o, l, a;
+o = l = 5;
+a = 6;
+// xxxxxxxxx
+   //
+if ( o > l ) {
+	a = o - l;
+	y = x - 2.0;
+} else {
+	x = y + 6.0;
+	l = o + a;
+}
+/* xx */
